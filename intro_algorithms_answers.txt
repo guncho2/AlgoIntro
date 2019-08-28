@@ -1,20 +1,78 @@
 Calculating a tip;
 
-
-
-
-
-
+take the check with right hand
+look at the total amount 
+multiply the totamaount by 15 and the result divided by 1000 = result1
+Add  result1 to the totalamount = result 2
+get the cresdit card 
+write down the result1 and then result2
+sign the cresit card
 
 
 Determining what to wear;
 
+function1 = If is a nigth party choose nigth-party cloth
+function2 = If is a work day    choose work day cloth
 
+functionToWear
+if function1
+get function1
+go to the closet
+open function2 doors
+wear the cloth
 
+else
 
+function2
+get function2
+go to the closet
+open function2 doors
+wear the cloth
 
+end
+end
 
-
+functionToWear()
 
 
 Getting to work.
+
+
+functiontoWork()
+if today is not Sat or San
+gotoWork()
+else
+stayHome()
+end
+
+gotoWork()
+wakeUp()
+get the wallet
+open the door
+go out
+close the door
+get the bus
+go to work
+end
+
+stayHome()
+wakeUp()
+relax
+turnOnTV
+gotothesofa
+watchtv
+end
+
+
+wakeUp()
+get a shower
+dry
+get dress
+take a breakfast
+end
+
+
+functiontoWork()
+
+end
+
